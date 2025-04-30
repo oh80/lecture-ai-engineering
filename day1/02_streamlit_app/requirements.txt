@@ -7,3 +7,6 @@ scikit-learn
 accelerate
 janome
 pyngrok
+langchain
+langchain_community
+langchain-huggingface
