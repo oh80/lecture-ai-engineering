@@ -1,0 +1,22 @@
+Nightshade Pulse:紫煙砲
+Nightshade Chaser:紫煙追
+Orchid Spring:紫泡泉
+Toxic Wreath:紫泡撒
+Serpent Lash:蛇頭鞭
+Cruel Fate:凶襲突
+Snake Step:蛇軽功
+Sinister Slide:悪鬼蛇行
+Venomous Fang:猛毒牙
+Heel Strike:蛇連咬
+Entrapment:雁字搦
+Deadly Implication:死屍累々
+Tainted Talons:紫煙裂爪
+Claws of Ya Zi:睚眦
+Pu Lao:蒲牢(中段)
+Chi Wen:螭吻(前強P)
+Qiu Niu:囚牛(前強K)
+Gong Fu:蚣蝮(ジャンプ下強P)
+Hun Dun:渾沌(弱タゲコン)
+Qiong Qi:窮奇(強タゲコン)
+Whisper:贔屓
+Gluttony:饕餮
